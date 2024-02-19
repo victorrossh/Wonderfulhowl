@@ -29,5 +29,5 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 </ul>
 
 <p align="center">
- <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/hello.gif"/>
+ <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/beautiful.gif"/>
 </p>
