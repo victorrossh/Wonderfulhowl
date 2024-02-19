@@ -19,9 +19,9 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
   
   <li>Recomendo o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.</li>
 
-  <li>Explore os arquivos, mergulhe no código e veja como a magia acontece.</li>
+  <li>Explore os arquivos e veja como a magia acontece.</li>
 
-  <li>Execute o código e testemunhe a maravilha que vocês criaram juntos.</li>
+  <li>Execute o código e descubra as maravilhas que o esperam..</li>
 
   <li>Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato.</li>
 
