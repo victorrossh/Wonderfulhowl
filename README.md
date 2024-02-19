@@ -17,7 +17,7 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 
   <li>Abra o projeto no seu ambiente de desenvolvimento preferido.</li>
   
-  <li>Recomendamos o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.</li>
+  <li>Recomendo o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.</li>
 
   <li>Explore os arquivos, mergulhe no código e veja como a magia acontece.</li>
 
