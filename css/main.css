@@ -960,6 +960,7 @@ body {
 }
 .long-g--1 .leaf {
   -webkit-mask-image: linear-gradient(to top, transparent 40%, #196d2a 80%) !important;
+  mask-image: linear-gradient(to top, transparent 40%, #196d2a 80%) !important; /* Added standard mask declaration */
 }
 .long-g--1 .leaf--1 {
   --w: 5vmin;
