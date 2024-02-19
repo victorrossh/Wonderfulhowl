@@ -12,11 +12,13 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 </div>
 
 ## Como começar
-1. Clone este repositório: `git@github.com:victorrossh/Wonderfulhowl.git`
-2. Abra o projeto no seu ambiente de desenvolvimento preferido. Recomendamos o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.
-3. Explore os arquivos, familiarize-se com a estrutura do projeto e mergulhe no código.
-4. Execute o código e veja a mágica acontecer.
-5. Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato. Estamos aqui para ajudar e garantir que sua jornada seja tão suave quanto possível.
+<ul>
+  <li>Clone este repositório: <code>git@github.com:victorrossh/Wonderfulhowl.git</code></li>
+  <li>Abra o projeto no seu ambiente de desenvolvimento preferido. Recomendamos o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.</li>
+  <li>Explore os arquivos, mergulhe no código e veja como a magia acontece.</li>
+  <li>Execute o código e testemunhe a maravilha que vocês criaram juntos.</li>
+  <li>Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato. Estamos aqui para garantir que sua jornada seja mágica e gratificante.</li>
+</ul>
 
 <div align="center">
   <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/thank-you.gif" alt="Obrigado por visitar!">
