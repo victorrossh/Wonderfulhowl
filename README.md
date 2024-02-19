@@ -28,6 +28,6 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
   <li>Estou aqui para garantir que sua jornada seja mágica e gratificante.</li>
 </ul>
 
-<div align="center">
-  <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/thank-you.gif" alt="Obrigado por visitar!">
-</div>
+<p align="center">
+ <img src="https://github.com/victorrossh/Wonderfulhowl/tree/main/gif/me.gif"/>
+</p>
