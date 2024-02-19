@@ -974,8 +974,10 @@ body {
   transform-origin: center;
   transform: scale(0.6) rotateX(60deg);
 }
-.long-g--2 .leaf, .long-g--3 .leaf {
+.long-g--2 .leaf,
+.long-g--3 .leaf {
   -webkit-mask-image: linear-gradient(to top, transparent 50%, #176220 80%) !important;
+  mask-image: linear-gradient(to top, transparent 50%, #176220 80%) !important; /* Added standard mask declaration */
 }
 .long-g--2 .leaf--1, .long-g--3 .leaf--1 {
   left: -1vmin;
