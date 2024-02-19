@@ -23,7 +23,7 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 
   <li>Execute o código e descubra as maravilhas que o esperam.</li>
 
-  <li>Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato.</li>
+  <li>Se surgir dúvidas ou se precisar de ajuda, não hesite em entrar em contato.</li>
 
   <li>Estou aqui para garantir que sua jornada seja mágica e gratificante.</li>
 </ul>
