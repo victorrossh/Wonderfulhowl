@@ -1,6 +1,6 @@
 body {
-    background-image: url('image/stardew.jpg');
-    background-size: cover; 
+    background-image: url('image/stardew1.gif');
+    background-size: 100%; 
     background-position: center; 
     display: flex;
     flex-direction: column;
@@ -12,13 +12,13 @@ body {
 }
 
 h1 {
-    color: #000;
+    color: #ee115b;
     font-size: 148px;
     text-align: center;
 }
 
 button {
-    background-color: #720e36;
+    background-color: #3d0868;
     color: white;
     border: none;
     border-radius: 10px;
