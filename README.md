@@ -21,7 +21,7 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 
   <li>Explore os arquivos e veja como a magia acontece.</li>
 
-  <li>Execute o código e descubra as maravilhas que o esperam..</li>
+  <li>Execute o código e descubra as maravilhas que o esperam.</li>
 
   <li>Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato.</li>
 
