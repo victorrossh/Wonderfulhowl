@@ -1,20 +1,30 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+
 body {
     background-image: url('image/stardew.png');
-    background-size: 100%; 
+    background-size: cover; 
     background-position: center; 
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    margin: 0;
-    width: 100%;
 }
 
 h1 {
     color: #ee115b;
-    font-size: 148px;
+    font-size: 60px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 button {
@@ -25,4 +35,36 @@ button {
     padding: 10px 20px;
     font-size: 24px;
     cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.chuva {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.chuva span {
+    position: absolute;
+    display: block;
+    background: rgb(209, 207, 207); /* Cor da partícula branca */
+    width: 5px; /* Largura da partícula */
+    height: 10px; /* Altura da partícula */
+    border-radius: 50%; /* Formato circular */
+    animation: rain 1s linear infinite;
+    bottom: 100%;
+    pointer-events: none;
+}
+
+@keyframes rain {
+    from {
+        transform: translateY(-100%);
+    }
+    to {
+        transform: translateY(100%);
+    }
 }
