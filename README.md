@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: white;">Bem-vindo ao repositório! 🚀</h1>
+  <h1 style="color: white;">Welcome to my repository.</h1>
 </div>
 
 Este é o espaço onde os sonhos se tornam realidade, onde a imaginação ganha vida e onde a magia acontece. 
@@ -30,5 +30,5 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 
 ## Stardew Valley
 <p align="center">
- <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/beautiful.gif"/>
+ <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/me2.gif"/>
 </p>
