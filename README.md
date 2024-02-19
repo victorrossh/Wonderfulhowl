@@ -28,6 +28,7 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
   <li>Estou aqui para garantir que sua jornada seja mágica e gratificante.</li>
 </ul>
 
+## Stardew Valley
 <p align="center">
  <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/beautiful.gif"/>
 </p>
