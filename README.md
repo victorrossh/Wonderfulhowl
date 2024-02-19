@@ -15,13 +15,17 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 <ul>
   <li>Clone este repositório: <code>git@github.com:victorrossh/Wonderfulhowl.git</code></li>
 
-  <li>Abra o projeto no seu ambiente de desenvolvimento preferido. Recomendamos o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.</li>
+  <li>Abra o projeto no seu ambiente de desenvolvimento preferido.</li>
+  
+  <li>Recomendamos o Visual Studio Code, mas sinta-se à vontade para usar o que preferir.</li>
 
   <li>Explore os arquivos, mergulhe no código e veja como a magia acontece.</li>
-  
+
   <li>Execute o código e testemunhe a maravilha que vocês criaram juntos.</li>
 
-  <li>Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato. Estamos aqui para garantir que sua jornada seja mágica e gratificante.</li>
+  <li>Se surgirem dúvidas ou se precisar de ajuda, não hesite em entrar em contato.</li>
+
+  <li>Estou aqui para garantir que sua jornada seja mágica e gratificante.</li>
 </ul>
 
 <div align="center">
