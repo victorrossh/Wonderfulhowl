@@ -595,6 +595,7 @@ body {
   border-left: 2vmin solid #217005;
   background-image: linear-gradient(to bottom, transparent, var(--dark-color) 60%);
   -webkit-mask-image: linear-gradient(to top, transparent 30%, #24803e 60%);
+  mask-image: linear-gradient(to top, transparent 30%, #24803e 60%); /* Added standard mask declaration */
 }
 .flower__g-right--1 {
   -webkit-animation: flower-g-right-ans 2.5s linear infinite;
