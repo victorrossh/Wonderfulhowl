@@ -5,7 +5,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome with local file",
-            "file": "${workspaceFolder}/ola.html"
+            "file": "${workspaceFolder}/first_page.html"
         }
     ]
 }

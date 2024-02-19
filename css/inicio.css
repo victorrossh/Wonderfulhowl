@@ -12,13 +12,13 @@ body {
 }
 
 h1 {
-    color: rgb(133, 5, 84);
+    color: #000;
     font-size: 148px;
     text-align: center;
 }
 
 button {
-    background-color: rgb(12, 4, 58);
+    background-color: #720e36;
     color: white;
     border: none;
     border-radius: 10px;
